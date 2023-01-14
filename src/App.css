@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+}
+
+.DropdownContainer-sm{
+  width: 30vw;
+}
+
+.DropdownContainer-lg{
+  width: 50vw;
+}
+
+.OutputContainer{
+  width: 50vh;
+  background-color: aliceblue;
+  align-self: center;
+  justify-self: center;
+  margin-top: 10vh;
+  margin-left: 5vh;
+}
