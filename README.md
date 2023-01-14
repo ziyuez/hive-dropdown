@@ -47,5 +47,9 @@ These properties are *optional*.
 ## Demos
 Clone and launch the React app to see Dropdown in use.
 
+![Demo without Search](/demo1.png "Demo without Search")
+
+![Demo with Search](/demo2.png "Demo with Search")
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
